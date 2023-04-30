@@ -1,0 +1,27 @@
+.form{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    color: #db7053;
+    border-radius: 5px
+}
+.label{
+    font-size: 20px;
+    margin: 0;
+}
+input{
+    border: solid 4px cyan;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+button{
+    background-color: #db7053;
+    color:white;
+    border: 0;
+    width: 100px;
+    padding: 10px;
+    border-radius: 5px;
+}
