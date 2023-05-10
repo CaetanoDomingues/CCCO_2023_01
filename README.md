@@ -1,2 +1,3 @@
 # CCCO_2023_01
-Atividades relacionadas a faculdade
+<b>Atividades relacionadas a faculdade<b>
+  Escrevendo códigos para estudar e entender como funcionam
