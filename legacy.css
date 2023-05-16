@@ -1,0 +1,39 @@
+.barra_superior{
+    border: solid 1px;
+    height: 12vh;
+    width: 100%;
+}
+.parte_superior{
+    border: solid 1px yellow;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 0;
+}
+.imagem{
+    border: solid 1px blue;
+    height: 70vh;
+    width: 58vw;
+    display: flex;
+    justify-content: center;
+}
+.circulo{
+    border: solid 1px purple;
+    height: vh;
+    width: 360vw;
+    border-radius: 200px;
+}
+.titulo{
+    border: solid 1px red;
+    height: 70vh;
+    width: 55vw;
+    display: flex;
+    
+}
+/* Começo da parte inferior */
+.parte_inferior{
+    border: solid 1px green;
+    height: 26vh;
+    width: 100%;
+}
